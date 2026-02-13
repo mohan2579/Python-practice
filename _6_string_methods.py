@@ -14,5 +14,4 @@ print(result) # hello
 
 # strip() with separator
 """ Usage: we can also specify separator(string) that need to be removed. """
-
-# IMPORTANT: i have stoped here for now
+""" first i have to explore all basics"""
